@@ -1,0 +1,5 @@
+{
+  "name": "SkyTrackUa - Monitoring System",
+  "description": "A sophisticated monitoring application for tracking aerial threats, including Shahed launch sites, ballistic weapon directions, and historical statistics with real-time Kyiv timing.",
+  "requestFramePermissions": []
+}
